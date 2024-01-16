@@ -1,4 +1,6 @@
-# US-Accidents Dataset ReadMe
+# About data
+
+## Source: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data
 
 ## Description
 This dataset consists of real-time countrywide car accident records covering 49 states in the USA. Collected from February 2016 to March 2023 through various APIs, including traffic incident data from transportation departments, law enforcement agencies, cameras, and sensors, it encompasses approximately 7.7 million accident entries. For detailed information, visit [here](dataset_link).
