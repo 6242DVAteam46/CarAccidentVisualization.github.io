@@ -2,6 +2,7 @@
 
 ## The website is a visualization of the car accident data, with interactive plot built with ploty.
 Website Link: https://6242dvateam46.github.io/CarAccidentVisualization.github.io/
+
 Source: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data
 
 ## Description
